@@ -31,7 +31,6 @@ Le système est implémenté en langage **C** et repose sur l’utilisation de *
 ---
 
 ## Structure du projet
-Structure du projet
 
 Structure du projet
 
