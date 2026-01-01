@@ -31,7 +31,7 @@ Le système est implémenté en langage **C** et repose sur l’utilisation de *
 ---
 
 ## Structure du projet
-
+.
 ├── main.c # Programme principal, création et gestion des threads
 ├── queue.c # Implémentation de la file d’attente des commandes
 ├── queue.h # Interface de la file d’attente
