@@ -1,0 +1,6 @@
+# Exécutables
+restaurant
+a.out
+
+# Fichiers objets
+*.o
